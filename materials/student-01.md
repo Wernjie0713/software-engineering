@@ -38,7 +38,7 @@ Don't forget to hit the :star: if you like this repo.
 | 25 |  | | [:octocat:](https://github.com/) |
 | 26 | WONG QIAO YING | alovey1014 | [:octocat:](https://github.com/alovey1014) |
 | 27 |  | | [:octocat:](https://github.com/) |
-| 28 |  | | [:octocat:](https://github.com/) |
+| 28 | YONG WERN JIE | Wernjie0713 | [:octocat:](https://github.com/Wernjie0713) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
